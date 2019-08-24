@@ -15,6 +15,17 @@
 账号"184262614@qq.com"
 密码："ldf.251045"
 
+工作流程
+1.git clone 粘贴 工作仓库  回车
+2.ls  cd 到拉取下来的仓库里面
+3.项目通过vscode打开  cnpm i
+4.npm run serve  然后正式开始
+5.下班时 取消操作 ctrl+c   git status
+6.git add .
+7.git status
+8.git commit-m '第二天工作内容'
+9.git push -u origin master
+
  -->
 
 ## Project setup
